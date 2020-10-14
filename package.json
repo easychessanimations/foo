@@ -1,0 +1,28 @@
+{
+  "name": "@easychessanimations/foo",
+  "version": "1.0.0",
+  "description": "Package foo.",
+  "main": "./lib/foo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "foo": "./lib/foo.js"
+  },
+  "keywords": [
+    "foo"
+  ],
+  "author": "easychessanimations",
+  "license": "MIT",
+  "homepage": "https://github.com/easychessanimations/foo",
+  "bugs": {
+    "url": "https://github.com/easychessanimations/foo/issues",
+    "email": "chessbotroulette@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/easychessanimations/foo.git"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
