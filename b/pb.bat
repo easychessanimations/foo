@@ -1,7 +1,7 @@
 
 node bump.js
 
-npm publish --access=public
+call npm publish --access=public
 
 git add .
 
