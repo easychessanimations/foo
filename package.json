@@ -1,6 +1,6 @@
 {
   "name": "@easychessanimations/foo",
-  "version": "1.0.23",
+  "version": "1.0.24",
   "description": "Package foo.",
   "main": "./lib/foo.js",
   "scripts": {
